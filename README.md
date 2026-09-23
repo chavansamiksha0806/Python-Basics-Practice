@@ -34,3 +34,19 @@ I am a T.Y. B.Sc. Computer Science student learning Python and improving my prog
 - Strengthen Data Structures and Algorithms
 - Start Python-based mini projects
 - Explore Data Science and Machine Learning
+
+## 📝 Programs Practiced
+
+- Even or Odd Number
+- Largest of Two Numbers
+- Smallest Even Number
+- Largest Even Number
+- Second Largest Number
+- First Negative Number
+- Last Even Number
+- Count Even Numbers
+- Sum of Numbers
+- Count Vowels
+- Reverse a String
+- Palindrome Check
+- Find Duplicate Values
